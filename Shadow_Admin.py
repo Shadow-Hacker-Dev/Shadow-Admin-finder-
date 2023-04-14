@@ -27,7 +27,7 @@ print ('''
     ''')
 print(f"{green}Shadow Admin finder tool in Python")
 print("Developer @Shadow_Hackerz")
-
+print ("Enter the website link with (Http / Https)")
 url = input("Enter the target link: ")
 
 admin_pages = [
