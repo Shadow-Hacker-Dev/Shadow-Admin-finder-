@@ -14,3 +14,4 @@ cd Shadow-Admin-finder-
 
 python3 Shadow_Admin.py
 
+Then enter the website link with (Http / Https)
